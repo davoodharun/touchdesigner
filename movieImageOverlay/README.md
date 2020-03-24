@@ -9,4 +9,5 @@ USE:
 6. Adjust movie speed, LFO amplitude, and LFO speed settings
 7. Hold down Record toggle button to record video
 
-![GUI](img/example.gif)
+![GUI](img/gui.png)
+![Example](img/example.gif)
