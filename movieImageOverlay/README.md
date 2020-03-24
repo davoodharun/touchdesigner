@@ -1,6 +1,7 @@
+# Movie Overlay for Static Image
 This project is used to learn interface design in TouchDesigner.
 
-USE:
+### Getting Started:
 1. Open .toe file
 2. Start in performance mode
 3. Select base image
